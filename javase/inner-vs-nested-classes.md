@@ -6,7 +6,7 @@
 
 嵌套类（Nested Classes）可以进一步分为两种类型：非静态（Non-static）嵌套类和静态（static）嵌套类。非静态嵌套类通常被称作内部类（Inner Classes）
 
-![Nested](../res/nested.jpg)
+![Nested](https://raw.githubusercontent.com/gzzing/learn-java/master/res/nested.jpg)
 
 ## 内部类的例子（也叫作非静态嵌套类）
 
