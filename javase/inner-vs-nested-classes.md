@@ -1,7 +1,5 @@
 # Inner Class和Nested Class
 
-[TOC]
-
 ## Nested Classes可以是静态的或非静态的
 
 嵌套类（Nested Classes）可以进一步分为两种类型：非静态（Non-static）嵌套类和静态（static）嵌套类。非静态嵌套类通常被称作内部类（Inner Classes）
